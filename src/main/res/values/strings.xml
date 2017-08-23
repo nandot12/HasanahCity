@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hasanah City</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_cluster">DetailClusterActivity</string>
+    <string name="detail_perusahaan">
+        Hasanah City merupakan hunian dengan skema pembayaran yang bebas RIBA dengan menggunakan akad yang sesuai syariah.
+
+Konsep kawasannya sendiri merupakan konsep kawasan Islami yang tentunya mengedepankan tuntunan Alqur\'an dan Sunnah. Penamaan Hasanah City sendiri berasal dari kata \'Hasanah\' yang berarti \'kebaikan\' dan \'City\' yang berarti \'kota\'. Diharapkan Hasanah City ini menjadi Kota yang penuh dengan kebaikan. Dimana menghidupkan tuntunan Alqur\'an dan Sunnah dalam keseharian penghuni di dalamnya. Dan pastinya didapatkan dengan cara halal dan berkah. Sehingga ungkapan \'Rumahku Surgaku\' bukan hanya ungkapan hampa tanpa makna. Oleh karena itulah Hasanah City mengusung tagline \'The Art of Islamic Living\'.
+
+\n Penamaan Cluster yang menjadi bagian dari kawasan Hasanah City juga diambil dari dinasti kejayaan peradaban Islam. Yaitu cluster Umayyah, Abbasyiah, dan Utsmaniyyah. Diharapkan Hasanah City dan juga tentunya para penghuni di dalamnya dapat berkontribusi terhadap kebangkitan kejayaan Islam di masa yang akan datang.
+
+Ini Alasan Mengapa Anda harus memiliki unit di HASANAH CITY
+Skema pembayaran bebas RIBA. Insya Allah menentramkan dan menenangkan di Dunia dan Akhirat
+Konsep kawasan Islami yang menghadirkan nuansa lingkungan dan kehidupan sunnah yang penuh kedamaian
+Lokasi yang strategis, membuat investasi Anda semakin bernilai tinggi
+Dekat dengan akses stasiun Commuter Line memudahkan akses menuju Jakarta dan sekitarnya
+\n\n
+Impian Hasanah Land yaitu membangun seratus ribu rumah syariah yang tersebar di setiap kabupaten dan kota di seluruh Indonesia. Mohon doa dan dukungan dari sahabat Keluarga Besar Hasanah Land.
+
+Harapan besar di masa yang akan datang (10-20 tahun) tidak ada lagi kredit rumah syariah dengan sistem riba. Semua pembelian rumah sudah menggunakan sistem syariah tanpa riba.
+
+Hasanah Land hadir atas kebutuhan masyarakat Indonesia akan hunian dengan konsep Islami dan dengan skema pembayaran yang bebas RIBA. Tentunya agar masyarakat lebih memiliki pilihan untuk mendapatkan rumah syariah penuh keberkahan tersebut.
+\n\n
+Proyek sudah berjalan berada di Batam, Padang, Tanjung Pinang, Bandung, Cianjur, Bogor, dan Solo.
+
+Saat ini sedang persiapan pembukaan proyek baru di Bogor, Jogjakarta, dan Bandung.
+    </string>
+
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

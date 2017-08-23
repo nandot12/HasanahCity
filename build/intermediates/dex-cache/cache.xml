@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_cb1d01cb82c9225b792407ab7336f7d9aa3b0826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\libs\QCARUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc82380e787fc40cc13f3a471bc0d30cc568d812">
+        <dex dex="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\build\intermediates\pre-dexed\debug\QCARUnityPlayer_b6e073c1bce1f7a514f8559f5176c748b15241f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6831a07fe24f06b4f2889e6d31760238eb59f861">
+        <dex dex="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\build\intermediates\pre-dexed\debug\unity-classes_7c58251ef96dfc70c5f2ef055c443c645ffbd3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0b912ee883b3f96c6170cafb3fe58c682d95629">
+        <dex dex="D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\build\intermediates\pre-dexed\debug\Vuforia_718f5bd8d84a72cc580c979493f00e91e6e62c88.jar" />
+    </item>
+
+</items>

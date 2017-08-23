@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rumah9" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah8" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah7" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah6" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah5" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah4" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah3" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah2" size="0.100000 0.062500" />
+    <ImageTarget name="Rumah1" size="0.100000 0.062500" />
+  </Tracking>
+</QCARConfig>

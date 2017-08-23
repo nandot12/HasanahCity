@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\app_bar_main.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_web.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_cluster.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\fragment_cluster.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_contact.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\fragment_contact.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\nav_header_main.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_fasilitas.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\fragment_fasilitas.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\content_main.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\content_main.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_portofolio.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\fragment_portofolio.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\fragment_home.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\cluster_item.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\cluster_item.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\content_detail_cluster.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\content_detail_cluster.xml"
+    },
+    {
+        "merged": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_detail_cluster.xml",
+        "source": "D:\\arif\\Dateline TA\\HasanahAndroid4\\Hasanah City\\src\\main\\res\\layout-large\\activity_detail_cluster.xml"
+    }
+]

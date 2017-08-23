@@ -1,0 +1,124 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.krearive.hasanahnew.Fragment.FasilitasFragment">
+
+    <com.daimajia.slider.library.SliderLayout
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        custom:pager_animation="Accordion"
+        custom:auto_cycle="true"
+        custom:indicator_visibility="visible"
+        custom:pager_animation_span="1100"
+        android:layout_height="400dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </ListView>
+
+        <!-- TODO: Update blank fragment layout -->
+        <!--<android.support.v7.widget.RecyclerView-->
+            <!--android:id="@+id/recyclerView"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+        <!--</android.support.v7.widget.RecyclerView>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas01" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView2"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas02" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView3"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas03" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView4"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas04" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView5"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas05" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView6"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas06" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView7"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas07" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView8"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas08" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView9"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas09" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView10"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas10" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView11"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="420dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@drawable/fasilitas11" />-->
+
+    </LinearLayout>
+</LinearLayout>

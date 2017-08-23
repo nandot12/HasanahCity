@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_home"
+            android:title="Profil" />
+        <item
+            android:id="@+id/nav_cluster"
+            android:icon="@drawable/icon_product"
+            android:title="Produk" />
+        <item
+            android:id="@+id/nav_fasilitas"
+            android:icon="@drawable/icon_fasilitas"
+            android:title="Fasilitas" />
+        <item
+            android:id="@+id/nav_portofolio"
+            android:icon="@drawable/icon_portofolio"
+            android:title="Portofolio" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/icon_web"
+            android:title="Web" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/icon_share"
+            android:title="Share" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/icon_contact"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/icon_brosur"
+            android:title="Download Brosur" />
+    </group>
+</menu>

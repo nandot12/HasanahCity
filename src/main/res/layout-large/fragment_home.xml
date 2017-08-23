@@ -1,0 +1,124 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krearive.hasanahnew.Fragment.HomeFragment"
+    android:clickable="false"
+    android:background="#352d2b">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logohitam"
+            android:scaleType="centerCrop" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/colorAccent"
+            android:layout_marginBottom="2dp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/colorAccent"></LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Siapa Kita?"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_margin="20dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hasanah City merupakan hunian dengan skema pembayaran yang bebas RIBA dengan menggunakan akad yang sesuai syariah.
+
+Konsep kawasannya sendiri merupakan konsep kawasan Islami yang tentunya mengedepankan tuntunan Alqur'an dan Sunnah. Penamaan Hasanah City sendiri berasal dari kata 'Hasanah' yang berarti 'kebaikan' dan 'City' yang berarti 'kota'. Diharapkan Hasanah City ini menjadi Kota yang penuh dengan kebaikan. Dimana menghidupkan tuntunan Alqur'an dan Sunnah dalam keseharian penghuni di dalamnya. Dan pastinya didapatkan dengan cara halal dan berkah. Sehingga ungkapan 'Rumahku Surgaku' bukan hanya ungkapan hampa tanpa makna. Oleh karena itulah Hasanah City mengusung tagline 'The Art of Islamic Living'.
+
+\n Penamaan Cluster yang menjadi bagian dari kawasan Hasanah City juga diambil dari dinasti kejayaan peradaban Islam. Yaitu cluster Umayyah, Abbasyiah, dan Utsmaniyyah. Diharapkan Hasanah City dan juga tentunya para penghuni di dalamnya dapat berkontribusi terhadap kebangkitan kejayaan Islam di masa yang akan datang.
+
+Ini Alasan Mengapa Anda harus memiliki unit di HASANAH CITY
+Skema pembayaran bebas RIBA. Insya Allah menentramkan dan menenangkan di Dunia dan Akhirat
+Konsep kawasan Islami yang menghadirkan nuansa lingkungan dan kehidupan sunnah yang penuh kedamaian
+Lokasi yang strategis, membuat investasi Anda semakin bernilai tinggi
+Dekat dengan akses stasiun Commuter Line memudahkan akses menuju Jakarta dan sekitarnya
+\n\n
+Impian Hasanah Land yaitu membangun seratus ribu rumah syariah yang tersebar di setiap kabupaten dan kota di seluruh Indonesia. Mohon doa dan dukungan dari sahabat Keluarga Besar Hasanah Land.
+
+Harapan besar di masa yang akan datang (10-20 tahun) tidak ada lagi kredit rumah syariah dengan sistem riba. Semua pembelian rumah sudah menggunakan sistem syariah tanpa riba.
+
+Hasanah Land hadir atas kebutuhan masyarakat Indonesia akan hunian dengan konsep Islami dan dengan skema pembayaran yang bebas RIBA. Tentunya agar masyarakat lebih memiliki pilihan untuk mendapatkan rumah syariah penuh keberkahan tersebut.
+\n\n
+Proyek sudah berjalan berada di Batam, Padang, Tanjung Pinang, Bandung, Cianjur, Bogor, dan Solo.
+
+Saat ini sedang persiapan pembukaan proyek baru di Bogor, Jogjakarta, dan Bandung."
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
+            android:textSize="16dp"
+            android:textStyle="normal"
+            android:layout_margin="20dp"
+            android:textAlignment="center" />
+
+        <!--<com.google.android.youtube.player.YouTubePlayerView-->
+            <!--android:id="@+id/youtube_view"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"/>-->
+
+        <FrameLayout
+            android:id="@+id/youtube_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50dp"
+            android:visibility="visible" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="“Satu dirham yang dimakan oleh seseorang dari transaksi riba sedangkan dia mengetahui, lebih besar dosanya daripada melakukan perbuatan zina sebanyak 36 kali.”"
+            android:id="@+id/textView4"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_margin="20dp"
+           />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(HR. Ahmad dan Al Baihaqi dalam Syu’abul Iman)"
+            android:id="@+id/textView5"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:textAlignment="center"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

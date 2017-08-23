@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="awesomelayoutmanager-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/487157ea86721a7a4eba4f5ad77c9f435cdb6aa3/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/487157ea86721a7a4eba4f5ad77c9f435cdb6aa3/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.forcelain.awesomelayoutmanager/awesomelayoutmanager/1.0/171d2aabe13b2dcfac72f288ae10b25a80fe91ae/awesomelayoutmanager-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

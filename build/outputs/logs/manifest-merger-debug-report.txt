@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:2:1-145:12
+	package
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:4:5-45
+	android:theme
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:5:5-52
+uses-sdk
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\idn\.android\build-cache\f6e1c4096820c93f6ad3fd0409695229a20e4e7f\output\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\idn\.android\build-cache\5add5cb4ca266c37d4c5768cb6d4d49519cf7236\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\idn\.android\build-cache\6c436449a4f350d11a4b885a670878875c0dd2d8\output\AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] C:\Users\idn\.android\build-cache\67f27cf61c2b2b94a5ac4ca15e511471dd7096c2\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.forcelain.awesomelayoutmanager:awesomelayoutmanager:1.0] C:\Users\idn\.android\build-cache\487157ea86721a7a4eba4f5ad77c9f435cdb6aa3\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\idn\.android\build-cache\e049afc9b71e2cc2cd07701890a62c50b0db101f\output\AndroidManifest.xml:20:5-43
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\idn\.android\build-cache\215fcf40ad9c3b2997f89a43fc358cf0c6420e3b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\idn\.android\build-cache\f15fdcc20c66760be56d1549f6fcde35a1bd9434\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\bb5f1357ee2a39017f38a9402f658b6c8afe576a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\4220811ba5f6e8ed71e670ef87e567f1f83e2a6a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\idn\.android\build-cache\2dd58371e908a947c007d2761fe4385e32ccf7b4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\idn\.android\build-cache\de10bb2720422373f8a84929907f6a1f8ec4edf7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\idn\.android\build-cache\89e423356258d46b07b284a287a5a1fab6c959d3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\idn\.android\build-cache\f1de3466a443f07c0e6f6f88864090d965569bb1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\idn\.android\build-cache\45106f2805a0f388165a809c1454008693df40e6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\idn\.android\build-cache\fecaed67d6ceba1d2271200ac899ee7692c04666\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\idn\.android\build-cache\c2dcab5fac5af8085ad5d6e62ea3fa254ac22795\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\idn\.android\build-cache\525cc98319307d521835980981ec47225c35f419\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\idn\.android\build-cache\485025c7698cfe99791da80c324baee5eacec368\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\idn\.android\build-cache\97bad76d3e436d5ca386952eebe2b30035db8846\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\idn\.android\build-cache\209f990dbc0b295ef19df4861b28167fd9611c2c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\idn\.android\build-cache\54c9027d1d89c7f64bbec9beb118226a312662e4\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+		INJECTED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:13:19-57
+supports-screens
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:15:5-20:40
+	android:largeScreens
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:17:9-36
+	android:smallScreens
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:19:9-36
+	android:normalScreens
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:18:9-37
+	android:xlargeScreens
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:20:9-37
+	android:anyDensity
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:16:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\idn\.android\build-cache\54c9027d1d89c7f64bbec9beb118226a312662e4\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:25:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\idn\.android\build-cache\54c9027d1d89c7f64bbec9beb118226a312662e4\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:25:22-78
+uses-feature#0x00020000
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:27:5-54
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:27:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:21:52-75
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:29:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:32:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:35:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:38:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:41:9-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:48:5-79
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:48:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:49:5-75
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:49:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:50:5-80
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:50:22-77
+application
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:52:5-143:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\idn\.android\build-cache\f6e1c4096820c93f6ad3fd0409695229a20e4e7f\output\AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\idn\.android\build-cache\5add5cb4ca266c37d4c5768cb6d4d49519cf7236\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\idn\.android\build-cache\6c436449a4f350d11a4b885a670878875c0dd2d8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.forcelain.awesomelayoutmanager:awesomelayoutmanager:1.0] C:\Users\idn\.android\build-cache\487157ea86721a7a4eba4f5ad77c9f435cdb6aa3\output\AndroidManifest.xml:12:5-16:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\idn\.android\build-cache\215fcf40ad9c3b2997f89a43fc358cf0c6420e3b\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\idn\.android\build-cache\f15fdcc20c66760be56d1549f6fcde35a1bd9434\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\bb5f1357ee2a39017f38a9402f658b6c8afe576a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\4220811ba5f6e8ed71e670ef87e567f1f83e2a6a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\idn\.android\build-cache\2dd58371e908a947c007d2761fe4385e32ccf7b4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\idn\.android\build-cache\de10bb2720422373f8a84929907f6a1f8ec4edf7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\idn\.android\build-cache\c99b217256af34a05165ca1934f9d59b571054c0\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\idn\.android\build-cache\89e423356258d46b07b284a287a5a1fab6c959d3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\idn\.android\build-cache\f1de3466a443f07c0e6f6f88864090d965569bb1\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\idn\.android\build-cache\45106f2805a0f388165a809c1454008693df40e6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\idn\.android\build-cache\fecaed67d6ceba1d2271200ac899ee7692c04666\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\idn\.android\build-cache\c2dcab5fac5af8085ad5d6e62ea3fa254ac22795\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\idn\.android\build-cache\525cc98319307d521835980981ec47225c35f419\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\idn\.android\build-cache\485025c7698cfe99791da80c324baee5eacec368\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\idn\.android\build-cache\97bad76d3e436d5ca386952eebe2b30035db8846\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\idn\.android\build-cache\209f990dbc0b295ef19df4861b28167fd9611c2c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:56:9-41
+	android:supportsRtl
+		ADDED from [com.forcelain.awesomelayoutmanager:awesomelayoutmanager:1.0] C:\Users\idn\.android\build-cache\487157ea86721a7a4eba4f5ad77c9f435cdb6aa3\output\AndroidManifest.xml:15:9-35
+	android:hardwareAccelerated
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:53:9-44
+	android:icon
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:54:9-43
+	android:largeHeap
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:57:9-33
+	android:allowBackup
+		ADDED from [com.forcelain.awesomelayoutmanager:awesomelayoutmanager:1.0] C:\Users\idn\.android\build-cache\487157ea86721a7a4eba4f5ad77c9f435cdb6aa3\output\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:58:9-40
+	android:isGame
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:55:9-30
+activity#com.krearive.hasanahnew.UnityPlayer.UnityPlayerNativeActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:59:9-77:20
+	android:screenOrientation
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:64:13-50
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:62:13-45
+	android:launchMode
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:63:13-44
+	android:configChanges
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:61:13-186
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:60:13-89
+meta-data#unityplayer.UnityActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:71:13-73:40
+	android:value
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:73:17-37
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:72:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:74:13-76:41
+	android:value
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:76:17-38
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:75:17-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:78:9-82:52
+	android:screenOrientation
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:81:13-45
+	android:configChanges
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:80:13-170
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:79:13-58
+activity#com.krearive.hasanahnew.MainActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:83:9-87:59
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:85:13-59
+	android:theme
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:84:13-64
+activity#com.krearive.hasanahnew.WebActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:88:9-95:20
+	android:parentActivityName
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:91:13-78
+	android:configChanges
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:90:13-59
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:89:13-63
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:92:13-94:72
+	android:value
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:93:17-63
+activity#com.krearive.hasanahnew.DetailClusterActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:96:9-104:20
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:98:13-66
+	android:parentActivityName
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:99:13-78
+	android:theme
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:100:13-56
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:97:13-73
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:113:9-115:55
+	android:value
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:115:13-52
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:114:13-58
+activity#com.krearive.hasanahnew.SplashScreenActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:117:9-125:20
+	android:theme
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:119:13-63
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:118:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:120:13-124:29
+action#android.intent.action.MAIN
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:121:17-69
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:121:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:123:17-77
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:123:27-74
+uses-library#com.ti.s3d
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:131:9-133:40
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:133:13-37
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:132:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:135:9-137:40
+	android:required
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:136:13-54
+activity#com.krearive.hasanahnew.MapsActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:139:9-141:59
+	android:label
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:140:13-64
+activity#com.krearive.hasanahnew.AboutActivity
+ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:142:9-83
+	android:name
+		ADDED from D:\arif\Dateline TA\HasanahAndroid4\Hasanah City\src\main\AndroidManifest.xml:142:19-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\idn\.android\build-cache\f6e1c4096820c93f6ad3fd0409695229a20e4e7f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\idn\.android\build-cache\6c436449a4f350d11a4b885a670878875c0dd2d8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\idn\.android\build-cache\e049afc9b71e2cc2cd07701890a62c50b0db101f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\idn\.android\build-cache\f15fdcc20c66760be56d1549f6fcde35a1bd9434\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\bb5f1357ee2a39017f38a9402f658b6c8afe576a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\idn\.android\build-cache\4220811ba5f6e8ed71e670ef87e567f1f83e2a6a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\idn\.android\build-cache\45106f2805a0f388165a809c1454008693df40e6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\idn\.android\build-cache\fecaed67d6ceba1d2271200ac899ee7692c04666\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\idn\.android\build-cache\c2dcab5fac5af8085ad5d6e62ea3fa254ac22795\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\idn\.android\build-cache\525cc98319307d521835980981ec47225c35f419\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\idn\.android\build-cache\485025c7698cfe99791da80c324baee5eacec368\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\idn\.android\build-cache\97bad76d3e436d5ca386952eebe2b30035db8846\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\idn\.android\build-cache\6dd5ef0bd2856a21269bc6051af079536c0d8079\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\idn\.android\build-cache\bf25dc9b7e0fc9d1f4f4bcd991e0c4d257fcb886\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\idn\.android\build-cache\f1de3466a443f07c0e6f6f88864090d965569bb1\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\idn\.android\build-cache\f1de3466a443f07c0e6f6f88864090d965569bb1\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\idn\.android\build-cache\f1de3466a443f07c0e6f6f88864090d965569bb1\output\AndroidManifest.xml:20:20-65
